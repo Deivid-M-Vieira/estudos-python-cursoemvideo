@@ -1,4 +1,4 @@
-# Tipos Primitivos e saída de dados.
+#Tipos Primitivos e saída de dados.
 
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro número: '))
